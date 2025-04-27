@@ -32,7 +32,7 @@
 
 - Copernicus Browser overview
   - Selecting a date and a satellite (exploring the place where we are, Vienna: https://link.dataspace.copernicus.eu/brcu)
-  - Selecting a visualization
+  - Selecting a visualization https://link.dataspace.copernicus.eu/00vb
 
 - Introduction to satellite image interpretation
  - The optical spectrum - spectral explorer https://link.dataspace.copernicus.eu/x978
