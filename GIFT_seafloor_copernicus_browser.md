@@ -63,24 +63,27 @@
 - Exploring the ocean floor with true color satellite images
     - Mayotte - large and unusually deep lagoon https://link.dataspace.copernicus.eu/ft69
     - Great Barrier Reef https://link.dataspace.copernicus.eu/zm5o
-    - Solomon Islands - largest living being on Earth https://link.dataspace.copernicus.eu/l6x6
+    - Solomon Islands - largest known coral colony on Earth https://link.dataspace.copernicus.eu/l6x6
 
 - Introduction to custom scripts in Copernicus Browser
-  - The drag and drop interface (RGB and index) (Magic Eyes is 8,11,4)
-  - Editing a custom script - changing parameters
-  - The custom script repository - scripts for exploring the ocean
-  - Water surface roughness 
+  - The drag and drop interface (RGB and index) (Magic Eyes is 8,11,4) https://link.dataspace.copernicus.eu/cz2c (https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/magic_eyes/)
+  - Editing a custom script - changing parameters https://link.dataspace.copernicus.eu/myza (https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/water_surface_visualizer/)
+  - The custom script repository - scripts for exploring the ocean https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel/sentinel-2/#marine-and-other-water-bodies-environment-algorithms
+  - Water surface roughness https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-1/water_surface_roughness_visualization/
     - Wallis https://link.dataspace.copernicus.eu/dz0u
     - Storm Éowyn https://link.dataspace.copernicus.eu/e5nh
   - White water detection https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/white_water/
-  - Ulyssys water quality viewer
+    - Fastnet Rock, Ireland https://link.dataspace.copernicus.eu/s5fr
+  - Ulyssys water quality viewer https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-3/ulyssys_water_quality_viewer/
+    - Algae Bloom of Gotland, Sweden: https://link.dataspace.copernicus.eu/63dn
+    - Sediment-laden waters of the Mahakam estuary, Indonesia: https://link.dataspace.copernicus.eu/jwk3
   - Satellite Derived Bathymetry Mapping
-    - Sampson Cay, Bahamas: https://tinyurl.com/sampsonsdbm
+    - Sampson Cay, Bahamas: [https://tinyurl.com/sampsonsdbm](https://link.dataspace.copernicus.eu/e8tq)
     - Cabo Pulmo, Mexico (northernmost shallow water coral reef in the Pacific)
-      - https://tinyurl.com/cabopulmosdbm
+      - https://tinyurl.com/cabopulmosdbm https://link.dataspace.copernicus.eu/gj52
     - Generate a timelapse for finding the date with the best water conditions
       - true color: https://link.dataspace.copernicus.eu/890l
-      - San Juan de Nova (true color includes shipwreck of the Tottenham on the S side of the reef): https://tinyurl.com/sanjuandenova
+      - San Juan de Nova (true color includes shipwreck of the Tottenham on the S side of the reef): https://link.dataspace.copernicus.eu/p2co
 
 - Applications:
   - Exploring the consequences of climate change, W Greenland, late summer: https://link.dataspace.copernicus.eu/60bb
