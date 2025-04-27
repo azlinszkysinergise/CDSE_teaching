@@ -48,7 +48,7 @@
     - Ice, sediment, algae and the seafloor: Ice melting on Lake Balkhash: https://link.dataspace.copernicus.eu/xwpl
 
   - Various data sources (on the example of Palau):
-  - Sentinel-2 https://link.dataspace.copernicus.eu/dq14
+  - Sentinel-2 https://link.dataspace.copernicus.eu/j9k1
   - Sentinel-1 https://link.dataspace.copernicus.eu/thxv
   - Sentinel-2 mosaics https://link.dataspace.copernicus.eu/5wps
   - Sentinel-3 https://link.dataspace.copernicus.eu/99pp
