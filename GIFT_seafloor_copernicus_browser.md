@@ -1,4 +1,4 @@
-GIFT workshop Copernicus Browser
+#### GIFT workshop Copernicus Browser
 
 - Introduction to satellite monitoring on land and the ocean
 - Why we do it: 
