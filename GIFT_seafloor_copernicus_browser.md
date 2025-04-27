@@ -55,9 +55,9 @@
   - Sentinel-3 Level-3 Ocean Cape Town/Namibia, Benguela Current upwelling cold current bringing nutrients https://link.dataspace.copernicus.eu/5sid
   - Creating a comparison Fukutoku-Okanoba Island, Japan, 2022-08-22 2022-10-24 https://link.dataspace.copernicus.eu/76ql
   - Creating a timelapse
-    - Thilafusi - waste "disposal" in the maldives (Sentinel-2 Level-1 timelapse from 2015 to 2025 https://link.dataspace.copernicus.eu/dj7t
-  - Creating a time series, quantitative analysis
-  - Sharing links
+    - Thilafusi - waste "disposal" in the Maldives (Sentinel-2 Level-1 timelapse from 2015 to 2025 https://link.dataspace.copernicus.eu/dj7t
+  - Creating a time series, quantitative analysis (water quality in the Helsinki Archipelago) https://link.dataspace.copernicus.eu/fknr
+  - Sharing links Veli Rat, Croatia https://link.dataspace.copernicus.eu/4117
   - Creating pins and sharing them (iceberg near Bristol Island, South Sandwich Islands) https://t.co/gyzNvhGuEO
 
 - Exploring the ocean floor with true color satellite images
