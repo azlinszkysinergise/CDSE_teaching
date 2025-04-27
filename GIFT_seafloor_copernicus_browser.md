@@ -77,23 +77,22 @@
   - Ulyssys water quality viewer https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-3/ulyssys_water_quality_viewer/
     - Algae Bloom of Gotland, Sweden: https://link.dataspace.copernicus.eu/63dn
     - Sediment-laden waters of the Mahakam estuary, Indonesia: https://link.dataspace.copernicus.eu/jwk3
-  - Satellite Derived Bathymetry Mapping
-    - Sampson Cay, Bahamas: [https://tinyurl.com/sampsonsdbm](https://link.dataspace.copernicus.eu/e8tq)
-    - Cabo Pulmo, Mexico (northernmost shallow water coral reef in the Pacific)
-      - https://tinyurl.com/cabopulmosdbm https://link.dataspace.copernicus.eu/gj52
-    - Generate a timelapse for finding the date with the best water conditions
+  - Satellite Derived Bathymetry Mapping https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/satellite_derived_bathymetry_mapping-sdbm/
+    - Sampson Cay, Bahamas: https://link.dataspace.copernicus.eu/e8tq
+    - Cabo Pulmo, Mexico (northernmost shallow water coral reef in the Pacific) https://link.dataspace.copernicus.eu/gj52
+      - Generate a timelapse for finding the date with the best water conditions
       - true color: https://link.dataspace.copernicus.eu/890l
-      - San Juan de Nova (true color includes shipwreck of the Tottenham on the S side of the reef): https://link.dataspace.copernicus.eu/p2co
+    - San Juan de Nova (true color includes shipwreck of the Tottenham on the S side of the reef): https://link.dataspace.copernicus.eu/p2co
 
 - Applications:
   - Exploring the consequences of climate change, W Greenland, late summer: https://link.dataspace.copernicus.eu/60bb
   - Showing politically relevant processes, eg ship-to-ship oil transfer: https://link.dataspace.copernicus.eu/bwyc
   - Mapping natural hazards such as oil spills: https://link.dataspace.copernicus.eu/8ybv
   - Showing human development/exploitation https://link.dataspace.copernicus.eu/8uwz
-  - Verifying news - Ship stuck near Buffalo https://x.com/i/status/1883246984808841629 https://t.co/gITfYG12EZ
+  - Verifying news - Ship stuck near Buffalo, Lake Eire https://x.com/i/status/1883246984808841629 https://link.dataspace.copernicus.eu/2dds
 
 - Additonal tools:
-  - CDSE Display wall
+  - CDSE Display wall https://display-wall.dataspace.copernicus.eu/
   - Allen coral atlas: https://allencoralatlas.org/atlas
   - Cerulean oil spill mapping tool: https://cerulean.skytruth.org/
   - Brockmann consult Earth Gallery: https://www.brockmann-consult.de/earth-gallery/
@@ -102,3 +101,5 @@
   - Short introduction to Copernicus Browser https://www.youtube.com/watch?v=F0lIn5r6ZWk
   - Advanced use of Copernicus Browser https://www.youtube.com/watch?v=07UNlYZ1SxM
   - Teaching Geography with Satellite Imagery https://www.youtube.com/watch?v=2FhDVkTL59A&t=1s
+ 
+- Thanks for teaching https://link.dataspace.copernicus.eu/ez1m
