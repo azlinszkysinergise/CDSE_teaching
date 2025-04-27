@@ -6,7 +6,7 @@
     - Connecting the dots - making informed guesses between our observations and measurements https://link.dataspace.copernicus.eu/cvea
     - Creating maps https://link.dataspace.copernicus.eu/gab1
     - Finding change, serving as an early warning https://tinyurl.com/zabaikal
-  - Satellite monitoring of the ocean is older than most people in the room (Seasat-3 1978)
+  - Satellite monitoring of the ocean is older than most people in the room (Seasat-3 1978) https://www.jpl.nasa.gov/missions/seasat/
   - Sea level monitoring is an essential application https://www.eumetsat.int/copernicus-sentinel-6-monitoring-global-ocean
   - Terrestrial imaging satellites
     - Landsat https://earthexplorer.usgs.gov/scene/metadata/full/5e83d0e09a752cff/LM12040261972330AAA06/
