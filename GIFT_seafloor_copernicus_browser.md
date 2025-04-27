@@ -96,6 +96,6 @@
   - Brockmann consult Earth Gallery: https://www.brockmann-consult.de/earth-gallery/
 
 - Resources:
-- Short introduction to Copernicus Browser https://www.youtube.com/watch?v=F0lIn5r6ZWk
-- Advanced use of Copernicus Browser https://www.youtube.com/watch?v=07UNlYZ1SxM
-- Teaching Geography with Satellite Imagery https://www.youtube.com/watch?v=2FhDVkTL59A&t=1s
+  - Short introduction to Copernicus Browser https://www.youtube.com/watch?v=F0lIn5r6ZWk
+  - Advanced use of Copernicus Browser https://www.youtube.com/watch?v=07UNlYZ1SxM
+  - Teaching Geography with Satellite Imagery https://www.youtube.com/watch?v=2FhDVkTL59A&t=1s
