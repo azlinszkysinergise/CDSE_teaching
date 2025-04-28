@@ -1,5 +1,7 @@
 #### GIFT workshop Copernicus Browser
 
+- The shallow parts of the ocean are also interesting - Vestas Wind Volvo Ocean Race crash https://www.yachtsandyachting.com/news/180372/Team-Vestas-Wind-crash
+
 - Introduction to satellite monitoring on land and the ocean
 - Why we do it: 
     - Regular, systematic data collection with the same sensors
