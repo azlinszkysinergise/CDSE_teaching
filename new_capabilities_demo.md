@@ -9,7 +9,8 @@ Hands-on:
   - Custom scripts repo: https://custom-scripts.sentinel-hub.com/
   - Magic Eyes custom script https://rebrand.ly/f8w4633
   - kNDVI https://tinyurl.com/maltakndvi
-  - 
+  - creating new configurations and sharing as OGC services: https://shapps.dataspace.copernicus.eu/dashboard/#/configurations/
+    
 - Explore Jupyter lab with Sentinel Hub API-s
   - https://jupyterhub.dataspace.copernicus.eu/
   - Introduction to working with Sentinel Hub in Jupyter: https://github.com/eu-cdse/notebook-samples/blob/main/sentinelhub/introduction_to_SH_APIs.ipynb
