@@ -10,6 +10,7 @@ Hands-on:
   - Magic Eyes custom script https://rebrand.ly/f8w4633
   - kNDVI https://tinyurl.com/maltakndvi
   - creating new configurations and sharing as OGC services: https://shapps.dataspace.copernicus.eu/dashboard/#/configurations/
+    - more detailed explanation with code example: https://dataspace.copernicus.eu/news/2024-2-19-integrating-satellite-imagery-web-applications
     
 - Explore Jupyter lab with Sentinel Hub API-s
   - https://jupyterhub.dataspace.copernicus.eu/
