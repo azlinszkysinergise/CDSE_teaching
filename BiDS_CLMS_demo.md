@@ -3,6 +3,7 @@
 Demo:
 
 - CLMS website https://land.copernicus.eu/en
+- CDSE Blog Post https://dataspace.copernicus.eu/cases/straight-point-copernicus-land-monitoring-services-data
 - Copernicus Browser: https://browser.dataspace.copernicus.eu/
 
 - Global land cover: https://link.dataspace.copernicus.eu/d9lj
