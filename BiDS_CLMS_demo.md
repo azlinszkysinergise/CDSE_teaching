@@ -1,3 +1,5 @@
+***https://tinyurl.com/CLMSBiDS***
+
 Demo:
 
 - CLMS website https://land.copernicus.eu/en
