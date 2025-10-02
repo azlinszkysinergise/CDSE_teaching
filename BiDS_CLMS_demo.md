@@ -16,6 +16,7 @@ Demo:
 
 - Configuration / OGC: https://shapps.dataspace.copernicus.eu/dashboard/#/configurations
 - Requests builder: https://shapps.dataspace.copernicus.eu/requests-builder/
+  - First, LOG IN
   - BYOC ID here: https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Data/clms/bio-geophysical-parameters/temperature-and-reflectance/land-surface-temperature/lst_global_5km_hourly_v2.html
   - Evalscript here: https://github.com/azlinszkysinergise/customscripts_test_az/blob/main/lst_celsius_for_stat.js
   - Bounding box POLYGON ((23.348554 56.419978,25.107359 56.419978,25.107359 57.124314,23.348554 57.124314,23.348554 56.419978))
