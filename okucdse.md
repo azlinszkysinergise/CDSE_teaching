@@ -1,57 +1,64 @@
-Kiindulópont - (Magyarország)[link.dataspace.copernicus.eu/r0m1]
-Budapest link.dataspace.copernicus.eu/bj9b
+Kiindulópont - Magyarország [link.dataspace.copernicus.eu/r0m1]
+Budapest [link.dataspace.copernicus.eu/bj9b]
 
-Remete link.dataspace.copernicus.eu/d2in
+Remete [link.dataspace.copernicus.eu/d2in]
 
-Remete 3D link.dataspace.copernicus.eu/fatf
+Remete 3D [link.dataspace.copernicus.eu/fatf]
 
-Kárpát-medence domborzatmodell: link.dataspace.copernicus.eu/kxzb
+Kárpát-medence domborzatmodell: [link.dataspace.copernicus.eu/kxzb]
 
-Garda-tó domborzatmodell: link.dataspace.copernicus.eu/ij31 
+Garda-tó domborzatmodell: [link.dataspace.copernicus.eu/ij31] 
 
-Miért ilyen alakú a Garda-tó? Miért vannak a tótól délre dombok? Hogyan alakulhatott ki?
+**Miért ilyen alakú a Garda-tó? Miért vannak a tótól délre dombok? Hogyan alakulhatott ki?**
 
-Rhone-gleccser, Sentinel-2 valódi színes képek: link.dataspace.copernicus.eu/kwrq
+Rhone-gleccser, Sentinel-2 valódi színes képek: [link.dataspace.copernicus.eu/kwrq]
 
-Rhone-gleccser 3D link.dataspace.copernicus.eu/ll9v
+Rhone-gleccser 3D [link.dataspace.copernicus.eu/ll9v]
 
-Rhone-gleccser 10 évvel ezelőtt link.dataspace.copernicus.eu/vs0v
+Rhone-gleccser 10 évvel ezelőtt [link.dataspace.copernicus.eu/vs0v]
 
-Rhone-gleccser most link.dataspace.copernicus.eu/8n6x
+Rhone-gleccser most [link.dataspace.copernicus.eu/8n6x]
 
-Hány métert húzódott vissza a gleccser? Hány év alatt?
+**Hány métert húzódott vissza a gleccser? Hány év alatt?**
 
-Rhone-gleccser 1870-ben (festmény, wikipedia) https://en.wikipedia.org/wiki/Rh%C3%B4ne_Glacier#/media/File:Johann_Heinrich_M%C3%BCller,_1825-1894_H21_Rhonegletscher.JPG
+Rhone-gleccser 1870-ben (festmény, wikipedia) [https://en.wikipedia.org/wiki/Rh%C3%B4ne_Glacier#/media/File:Johann_Heinrich_M%C3%BCller,_1825-1894_H21_Rhonegletscher.JPG]
 
-Felismered a felszínformákat a Garda-tó körül?
+**Felismered a felszínformákat a Garda-tó körül?**
 
-Gleccserek izlandon - Skeidarárjökull/Skaftafellsjökull link.dataspace.copernicus.eu/da17
-Mik a szürke csíkok?
-Hogy néz ki ugyanez a terület nyáron (2025 július 6), tavasszal (március 13), télen (2024 január 31), ősszel (2025 szeptember 25)? Miért másmilyenek a folyók?
+Gleccserek izlandon - Skeidarárjökull/Skaftafellsjökull [link.dataspace.copernicus.eu/da17]
 
-Grindavík vulkán, valódi színek link.dataspace.copernicus.eu/p2vn
+**Mik a szürke csíkok?**
 
-Grindavík vulkán, valódi színek - hol forró? link.dataspace.copernicus.eu/p17v
-Mikor kezdődött és mikor maradt abba a kitörés? Mikor volt a legintenzívebb?
+**Állítsd át a dátumot! Hogy néz ki ugyanez a terület nyáron (2025 július 6), tavasszal (március 13), télen (2024 január 31), ősszel (2025 szeptember 25)? Miért másmilyenek a folyók?**
 
-Aktív-e most az Etna? link.dataspace.copernicus.eu/6xnw
+Grindavík vulkán, valódi színek [link.dataspace.copernicus.eu/p2vn]
 
-Sentinel-5P Kén-dioxid térkép link.dataspace.copernicus.eu/e7df
+Grindavík vulkán, valódi színek - hol forró? [link.dataspace.copernicus.eu/p17v]
 
-Mikor volt utoljára látható kitörés? link.dataspace.copernicus.eu/e7df
+**Mikor kezdődött és mikor maradt abba a kitörés? Mikor volt a legintenzívebb?**
 
-Honnan lehet megismerni a fiatal vulkánokat? link.dataspace.copernicus.eu/m7z4
+Aktív-e most az Etna? [link.dataspace.copernicus.eu/6xnw]
 
-Vannak Magyarországon fiatal vulkánok? link.dataspace.copernicus.eu/bal3
+Sentinel-5P Kén-dioxid térkép [link.dataspace.copernicus.eu/e7df]
 
-Aktív-e a Heard-sziget vulkánja? link.dataspace.copernicus.eu/8d0z
+Mikor volt utoljára látható kitörés? [link.dataspace.copernicus.eu/e7df]
+
+Honnan lehet megismerni a fiatal vulkánokat? [link.dataspace.copernicus.eu/m7z4]
+
+Vannak Magyarországon fiatal vulkánok? [link.dataspace.copernicus.eu/bal3]
+
+Aktív-e a Heard-sziget vulkánja? [link.dataspace.copernicus.eu/8d0z]
 
 Víz - bajban van-e a Balaton?
 
-Aktuális kép: link.dataspace.copernicus.eu/psso
+Aktuális kép: [link.dataspace.copernicus.eu/psso]
 
-A legutóbbi magas vízállás idején: link.dataspace.copernicus.eu/wrk6
+A legutóbbi magas vízállás idején: [link.dataspace.copernicus.eu/wrk6]
 
-Homokpad a déli parton: link.dataspace.copernicus.eu/n9i7
+**Milyen különbséget látsz? Hol vannak változások?**
+
+Homokpad a déli parton: [link.dataspace.copernicus.eu/n9i7]
 
 Szabad böngészés - további érdekességek: "Beállítások" menü
+
++1 A két kilométer hosszú tehervonat [http://link.dataspace.copernicus.eu/pvxl]
